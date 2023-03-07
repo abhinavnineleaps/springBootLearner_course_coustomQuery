@@ -8,6 +8,7 @@ class SpringBootLearnerCourseCoustomQueryApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 	}
 
 }
